@@ -51,5 +51,3 @@ Your Control Hub is the device that will allow you to interface your code with y
 2. Turn it on by holding the power button, if it's not turning on, ask Barnes for the alternative method to jumpstart it.
 
 3. To make sure it's fully up-to-date, check the notification bar after connecting to the internet for update notifications. Afterwards, open the REV Hardware Client, connect to your control hub's Wi-Fi, and check the control hub for updates as well.
-
-

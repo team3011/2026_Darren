@@ -1,4 +1,4 @@
-## Resources
+# Resources
 
 ---
 
@@ -12,10 +12,10 @@
 
 - [PedroPathing Visualizer](https://visualizer.pedropathing.com/)
 
+- [Panels Dashboard Docs](https://panels.bylazar.com/docs/com.bylazar.docs/)
+
 #### Example Code
 
 - [FTC '24-'25 Repo](https://github.com/team3011/2025_Pedro)
 
 - [FTC '25-'26 Repo](https://github.com/team3011/2026_Pedro)
-
-
